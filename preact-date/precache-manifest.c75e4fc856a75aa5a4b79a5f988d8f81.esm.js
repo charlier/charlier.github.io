@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/icon.png"
   },
   {
-    "revision": "ef97c2d7f64d37cf4ad1df719010ad49",
-    "url": "/bundle.084e0.esm.js"
+    "revision": "6be300e5913b3deb9c0e5fe360eb4ce2",
+    "url": "/bundle.01db7.esm.js"
   },
   {
-    "revision": "1ac4f448b13af28239ea12e0c5ab99dc",
+    "revision": "6be091b352ce0dc0ece18893e5381966",
     "url": "/index.html"
   },
   {
